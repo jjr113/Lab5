@@ -12,9 +12,7 @@
 Jakob Ross
 * Pitt CS, 2023
 * jjr113@pitt.edu
-* Code Wizard
 
 Hayden Terek
 * Pitt CS, 2023
 * hdt4@pitt.edu
-* Code Wizard
