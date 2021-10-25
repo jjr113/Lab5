@@ -14,7 +14,7 @@ Installing the program is very simple. Only the .py file, *dosomething.py*, need
 
 ##How To Use
 
-Upon start up, the user will be asked to enter their name. Anything can be entered here. When prompted, enter a number for the calculator. After doing so, press enter to move to the next command of the program. It is important to note the program can only accept **numbers** anything else **will cause the program to crash**.
+Upon start up, the user will be asked to enter their name. Anything can be entered here. When prompted, enter a number for the calculator. After doing so, press enter to move to the next command of the program. It is important to note the program can **only accept numbers** anything else **will cause the program to crash**.
 
 ##Team Information
 
