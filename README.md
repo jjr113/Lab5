@@ -38,3 +38,6 @@ Here is an example of the output given by the program:
 
 Please refer to the *LICENSE* and *CODE OF CONDUCT* files for any questions regarding the use and distribution of this program.
 
+##Sources Used
+License template was provided by https://www.simuldocs.com/ for free and with given consent of usage.
+Code of conduct template was provided by 
