@@ -35,4 +35,4 @@ Please refer to the *LICENSE* and *CODE OF CONDUCT* files for any questions rega
 
 ## Sources Used
 License template was provided by https://www.simuldocs.com/ for free and with given consent of usage.
-Code of conduct template was provided by 
+Code of conduct template was provided by https://www.contributor-covenant.org/version/1/4/code-of-conduct/ for free and with given consent of usage.
