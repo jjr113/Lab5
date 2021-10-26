@@ -1,6 +1,6 @@
 # Average Calculator
 
-This program asks the user to enter their name and two numbers. It then takes the average of the two. The average and name is then returned to the user. 
+This program asks the user to enter their name and two numbers. It then takes the average of the two. The average is then returned to the user. 
 
 ## Requirements
 
