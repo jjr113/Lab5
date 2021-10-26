@@ -33,6 +33,12 @@ Hayden Terek
 
 Please refer to the *LICENSE* and *CODE OF CONDUCT* files for any questions regarding the use and distribution of this program.
 
+## Miscellany
+
+The reason why we chose the license we provided is because 
+
+The reason why we chose the code of conduct we provided is because it provides a very detailed and efficient overlook on what we are looking for when other contributers and users are looking through our github repo.
+
 ## Sources Used
 License template was provided by https://www.simuldocs.com/ for free and with given consent of usage.
 Code of conduct template was provided by https://www.contributor-covenant.org/version/1/4/code-of-conduct/ for free and with given consent of usage.
