@@ -27,8 +27,7 @@ Hayden Terek
 * hdt4@pitt.edu
 
 ## Screenshots
-
-Here is an example of the output given by the program:
+![image](https://user-images.githubusercontent.com/91906368/138929467-7e088a68-7eff-4dc3-a217-b964dce11d0c.png)
 
 ## Licensing and Code of Conduct 
 
